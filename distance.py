@@ -1,0 +1,5 @@
+#(k/1.609)
+km = float (input("Enter km: "))
+miles = (km * 0.6213)
+dec = round(miles, 2)
+print(dec)
